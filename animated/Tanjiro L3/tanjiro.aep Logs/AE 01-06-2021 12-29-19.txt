@@ -1,0 +1,8 @@
+  01/06/2021 12:29:19: Starting composition “Output”.
+
+  Output To: D:\Programming\JS\MIZU-CARDS\animated\Tanjiro L3\export\sequence\Output\Tanjiro_[#####].png    01/06/2021 12:29:33: Finished composition “Output”.
+
+
+  Total Time Elapsed: 14 Seconds
+Log closed on 01/06/2021 at 12:29:33
+

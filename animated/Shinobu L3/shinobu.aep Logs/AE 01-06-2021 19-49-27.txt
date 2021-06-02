@@ -1,0 +1,8 @@
+  01/06/2021 19:49:27: Starting composition “Output”.
+
+  Output To: D:\Programming\JS\MIZU-CARDS\animated\Shinobu L3\export\sequence\Output\Shinobu_[#####].png  After Effects warning: Undo group mismatch, will attempt to fix.  01/06/2021 19:49:38: Finished composition “Output”.
+
+
+  Total Time Elapsed: 11 Seconds
+Log closed on 01/06/2021 at 19:49:38
+

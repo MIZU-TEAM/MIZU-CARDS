@@ -1,0 +1,8 @@
+  01/06/2021 22:31:14: Starting composition “bg”.
+
+  Output To: D:\Programming\JS\MIZU-CARDS\animated\Shinobu L3\export\sequence\bg\Shinobu_[#####].png      Render stopped by user.    01/06/2021 22:31:58: Finished composition “bg”.
+
+
+  Total Time Elapsed: 43 Seconds
+Log closed on 01/06/2021 at 22:31:58
+

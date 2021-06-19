@@ -1,0 +1,8 @@
+  05/06/2021 17:57:08: Starting composition “Output”.
+
+  Output To: C:\Users\Khalil\Documents\Khalil\Vis\MIZU-CARDS\animated\Shinobu L3\Shinobu.mov    05/06/2021 17:57:41: Finished composition “Output”.
+
+
+  Total Time Elapsed: 33 Seconds
+Log closed on 05/06/2021 at 17:57:41
+

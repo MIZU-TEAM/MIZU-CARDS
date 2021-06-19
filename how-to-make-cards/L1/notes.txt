@@ -1,0 +1,15 @@
+Gathering Assets
+
+Find a series which has not been done - use mf to see if the cards already exist.
+Show trello as a demonstration of how to find a series to do.
+
+Find images for each character.
+Justify a suitable image:
+- Preferrably transparent (show google images color > transparent tools)
+- Relatively High resolution, for level 1s full body images are preferred, but will be slightly cropped once placed on the card.
+(NOTE: Sometimes, better images can be found using google's reverse image search and visually similar images.)
+
+Show different sources (links in description):
+- Fandom Wikis
+- animecharactersdatabase.com
+- Google Images

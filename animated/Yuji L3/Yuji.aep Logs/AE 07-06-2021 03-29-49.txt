@@ -1,0 +1,8 @@
+  07/06/2021 03:29:49: Starting composition “Comp 2”.
+
+  Output To: D:\Programming\JS\MIZU-CARDS\animated\Yuji L3\export\sequence\Comp 2\Yuji_[#####].png    07/06/2021 03:30:10: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 21 Seconds
+Log closed on 07/06/2021 at 03:30:10
+

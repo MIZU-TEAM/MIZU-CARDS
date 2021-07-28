@@ -1,0 +1,8 @@
+  28/07/2021 19:09:56: Starting composition “Final/Export”.
+
+  Output To: H:\Programming\JS\MIZU-CARDS\animated\Tutorials\L3\Inosuke\Output\Final-Export\Final-Export_[#####].png    28/07/2021 19:11:39: Finished composition “Final/Export”.
+
+
+  Total Time Elapsed: 1 Min, 43 Sec
+Log closed on 28/07/2021 at 19:11:39
+

@@ -1,0 +1,8 @@
+  28/07/2021 19:04:21: Starting composition “Final/Export”.
+
+  Output To: H:\Programming\JS\MIZU-CARDS\animated\Tutorials\L3\Inosuke\Output\Final-Export\Inosuke_[#####].png      Render stopped by user.    28/07/2021 19:04:45: Finished composition “Final/Export”.
+
+
+  Total Time Elapsed: 22 Seconds
+Log closed on 28/07/2021 at 19:04:45
+

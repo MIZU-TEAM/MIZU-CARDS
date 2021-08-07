@@ -1,0 +1,17 @@
+Adobe After Effects v17.5 Windows 64 render log for project “okabe-rintarou+steins-gate3.aep”
+
+Rendering started on 07/08/2021 at 02:26:22
+
+  07/08/2021 02:26:22: Starting composition “Card”.
+
+  Output To: C:\Users\khale\Documents\Khalil\Vis\MIZU-CARDS\animated\Okabe L3\export\okabe_rintarou+steins-gate.mov    07/08/2021 02:27:17: Finished composition “Card”.
+
+
+  07/08/2021 02:27:18: Starting composition “Card”.
+
+  Output To: C:\Users\khale\Documents\Khalil\Vis\MIZU-CARDS\animated\Okabe L3\export\PNGS\Card\Card_[#####].png    07/08/2021 02:27:53: Finished composition “Card”.
+
+
+  Total Time Elapsed: 1 Min, 31 Sec
+Log closed on 07/08/2021 at 02:27:53
+

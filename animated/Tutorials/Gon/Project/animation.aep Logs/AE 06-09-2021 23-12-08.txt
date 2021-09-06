@@ -1,0 +1,8 @@
+  06/09/2021 23:12:08: Starting composition “Export/Template”.
+
+  Output To: H:\Programming\JS\MIZU-CARDS\animated\Tutorials\Gon\Project\export\Gon\Gon_[#####].png    06/09/2021 23:12:22: Finished composition “Export/Template”.
+
+
+  Total Time Elapsed: 14 Seconds
+Log closed on 06/09/2021 at 23:12:22
+

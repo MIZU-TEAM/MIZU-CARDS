@@ -1,0 +1,8 @@
+  04/09/2021 22:45:31: Starting composition “Base Animation”.
+
+  Output To: H:\Programming\JS\MIZU-CARDS\animated\Tutorials\Gon\Project\export\Base Animation\Base Animation_[#####].png    04/09/2021 22:46:16: Finished composition “Base Animation”.
+
+
+  Total Time Elapsed: 45 Seconds
+Log closed on 04/09/2021 at 22:46:16
+
